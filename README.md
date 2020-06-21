@@ -10,6 +10,7 @@
 [Perfect Hashing Using Sparse Matrix Packing](https://people.engr.ncsu.edu/tharp/Infosys/Course_2010/sparse_matrix_packing.pdf)
 
 [Bin Packing Problem](https://en.wikipedia.org/wiki/Bin_packing_problem) Bin Packing Problem
+
 [Bin Packing German](https://algo.rwth-aachen.de/~algorithmus/algo24.php) Bin Packing
 
 To be continued.
