@@ -9,10 +9,10 @@
 
 The hash function is 
 
-  row = K/t
-  col = K mod t
-  index for 1D array = displacement[row]+col
-  H(K) = 1D[index]
+  row = K/t<br>
+  col = K mod t<br>
+  index for 1D array = displacement[row]+col<br>
+  H(K) = 1D[index]<br>
 
 Collapsing the table is a bin packing problem. The first-fit decreasing method does result in acceptable table compression. The algorithm can be implemented to have a running time of at most O(n\log(n))
 
