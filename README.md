@@ -22,4 +22,6 @@ Collapsing the table is a bin packing problem. The first-fit decreasing method d
 
 [Bin Packing German](https://algo.rwth-aachen.de/~algorithmus/algo24.php) Bin Packing
 
+[Modern perfect hashing for strings](http://0x80.pl/notesen/2023-04-30-lookup-in-strings.html) - Modern perfect hashing for strings
+
 
